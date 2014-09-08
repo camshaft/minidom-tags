@@ -1,0 +1,13 @@
+{
+  "name": "minidom-tags",
+  "repo": "camshaft/minidom-tags",
+  "description": "tag identifiers for minidom implementations",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
